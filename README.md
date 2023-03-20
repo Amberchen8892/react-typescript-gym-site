@@ -23,6 +23,7 @@ To get started with the project, you'll need to install the necessary dependenci
 ## Scripts
 
 This project includes the following scripts:
-`dev`: Runs the app in development mode using Vite.
-`build`: Builds the app for production using TypeScript and Vite.
-`preview`: Runs the built app in preview mode using Vite.
+
+- `dev`: Runs the app in development mode using Vite.
+- `build`: Builds the app for production using TypeScript and Vite.
+- `preview`: Runs the built app in preview mode using Vite.
